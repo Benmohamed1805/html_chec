@@ -1,0 +1,10 @@
+.nav_menu{
+    display:flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+}
+.nav_menu li a{
+    color:red;
+    text-decoration: none;
+}
